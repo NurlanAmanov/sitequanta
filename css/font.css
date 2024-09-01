@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Mluvka-Bold";
+    src: url(../font/Mluvka-Bold-BF65518ac8cff8c.otf);
+}
+@font-face {
+    font-family: "Mluvka-ExtraBold ";
+    src: url(../font/Mluvka-ExtraBold-BF65518ac86bc69.otf);
+}
+@font-face {
+    font-family: "Mluvka-ExtraLight";
+    src: url(../font/Mluvka-ExtraLight-BF65518ac7eb0fe.otf);
+}
+@font-face {
+    font-family: "Mluvka-Medium";
+    src: url(../font/Mluvka-Medium-BF65518ac864edb.otf);
+}
+@font-face {
+    font-family: "Mluvka-Regular";
+    src: url(../font/Mluvka-Regular-BF65518ac8463f5.otf);
+}
